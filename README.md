@@ -1,4 +1,7 @@
 # Stiskanje in čiščenje slik s pomočjo diskretne valčne transformacije 
+
+> Opis rešitve skupaj s obdelanimi slikami se nahaja v [poročilu](porocilo.pdf).
+
 S pomočjo diskretne valčne transformacije boste izdelali  postopek za stiskanje slik.
 
 S pomočjo poljubne knjižnice izračunajte diskretno valčno transformacijo (DVT) slike. Izberite najprimernejši valček za vašo sliko. Število nivojev dekompozicije določite sami. Dobro preverite, kako so v izhodu DVT-ja zapisane podrobnosti in približki vhodne slike. 
