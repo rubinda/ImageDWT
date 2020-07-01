@@ -1,6 +1,6 @@
 # Stiskanje in čiščenje slik s pomočjo diskretne valčne transformacije 
 
-> Opis rešitve skupaj s obdelanimi slikami se nahaja v [poročilu](porocilo.pdf).
+> Opis rešitve skupaj z obdelanimi slikami se nahaja v [poročilu](porocilo.pdf).
 
 S pomočjo diskretne valčne transformacije boste izdelali  postopek za stiskanje slik.
 
